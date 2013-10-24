@@ -1,5 +1,7 @@
 [[!img rect3328.png align="right" size="200x200" alt=""]]
 
+woot
+
 added bootstrap
 
 All wikis are supposed to have a [[SandBox]], so this one does too.
