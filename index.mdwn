@@ -12,4 +12,9 @@ All wikis are supposed to have a [[SandBox]], so this one does too.
 This wiki is powered by [[ikiwiki]].
 
 
+<<<<<<< HEAD
 something
+=======
+
+conflict ?
+>>>>>>> e1f10396182485db8542e1224493c6e2ca33ed42
