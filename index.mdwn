@@ -10,17 +10,3 @@ All wikis are supposed to have a [[SandBox]], so this one does too.
 ----
 
 This wiki is powered by [[ikiwiki]].
-
-<<<<<<< HEAD
-
-wakawaka
-something
-=======
-=======
-blah
-blah
-===bogus===
->>>>>>> 80fddb3fa85ef13406e5f615905b92cdced61a32
-
-conflict ?
->>>>>>> e1f10396182485db8542e1224493c6e2ca33ed42
