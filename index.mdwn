@@ -8,7 +8,7 @@ this wiki documents our initiative to create a hackbase in brussels / a living- 
 * 
 
 
-content of this website is clone-able on github / [[https://github.com/phereman/ikiwiki-hackbase.be]] /
+content of this [[ikiwiki]] is clone-able on github / [[https://github.com/phereman/ikiwiki-hackbase.be]] /
 feel free to fork / merge / join in and contribute
 
 [[!img rect3328.png align="right" size="200x200" alt=""]]
@@ -18,4 +18,3 @@ feel free to fork / merge / join in and contribute
 
 All wikis are supposed to have a [[SandBox]], so this one does too.
 
-This wiki is powered by [[ikiwiki]].
