@@ -1,4 +1,6 @@
 # hackbase brussels 
+[[!img rect3328.png align="right" size="200x200" alt=""]]
+
 
 this wiki documents our initiative to create a hackbase in brussels / a living- and workspace shared among fellows.
 
@@ -11,7 +13,6 @@ this wiki documents our initiative to create a hackbase in brussels / a living- 
 content of this [[ikiwiki]] is clone-able on github / [[https://github.com/phereman/ikiwiki-hackbase.be]] /
 feel free to fork / merge / join in and contribute
 
-[[!img rect3328.png align="right" size="200x200" alt=""]]
 
 --------------
 
