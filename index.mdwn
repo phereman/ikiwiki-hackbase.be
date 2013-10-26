@@ -1,12 +1,6 @@
+=hackbase brussels =
 [[!img rect3328.png align="right" size="200x200" alt=""]]
 
-added bootstrap
-conflict
-
---------------------
-
 All wikis are supposed to have a [[SandBox]], so this one does too.
-
-----
 
 This wiki is powered by [[ikiwiki]].
