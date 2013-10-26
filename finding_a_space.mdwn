@@ -1,5 +1,4 @@
-
 * brussels region has immo (real-estate) website aggregating warehouses for rent/sale
 * rent shared among the people interested
 * setup a cooperative organisation and buy some property ?
-* a conglomerate of spaces & places in bxl, antzerp, ham,... which we jointly build & exploit
+* a conglomerate of spaces & places in bxl, antzerp, ham,... which we jointly build & exploit ?
