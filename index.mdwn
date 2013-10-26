@@ -1,7 +1,7 @@
 [[!img rect3328.png align="right" size="200x200" alt=""]]
 
 added bootstrap
-
+conflict
 
 --------------------
 
