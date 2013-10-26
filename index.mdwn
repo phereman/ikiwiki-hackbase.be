@@ -2,9 +2,15 @@
 
 this wiki documents our initiative to create a hackbase in brussels / a living- and workspace shared among fellows.
 
-
+* [[gathering people]] who share this same interest
+* [[finding a space]]
+* [[how we function]]
+* 
 
 [[!img rect3328.png align="right" size="200x200" alt=""]]
+
+--------------
+
 
 All wikis are supposed to have a [[SandBox]], so this one does too.
 
