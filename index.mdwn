@@ -1,4 +1,4 @@
-=hackbase brussels =
+# hackbase brussels 
 
 this wiki documents our initiative to create a hackbase in brussels / a living- and workspace shared among fellows.
 
